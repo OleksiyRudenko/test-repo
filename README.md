@@ -8,3 +8,5 @@ Update `origin/master` on remote 181204-1227
 
 `README.md`: update `origin/master` on remote 181204-1232 to test `feature` rebase 
 on amended file.
+
+Add a change on `master`.
