@@ -10,3 +10,5 @@ Update `origin/master` on remote 181204-1227
 on amended file.
 
 Add a change on `master`.
+
+Let's see if we can keep a tagged and "hanging" commit. 
