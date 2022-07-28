@@ -1,0 +1,24 @@
+labels:
+  - name: warning
+    color: e4e669
+    description: Has minor issues.
+
+  - name: invalid-source-repo
+    # If including a `#`, make sure to wrap color code with quotes, e.g. '#01cafe'!
+    color: d73a4a
+    description: Unexpected source repo.
+
+  - name: invalid-source-branch
+    # If including a `#`, make sure to wrap color code with quotes, e.g. '#01cafe'!
+    color: d73a4a
+    description: Wrong source branch.
+
+  - name: invalid-target-branch
+    # If including a `#`, make sure to wrap color code with quotes, e.g. '#01cafe'!
+    color: d73a4a
+    description: Wrong target branch.
+
+  - name: irrelevant-files
+    # If including a `#`, make sure to wrap color code with quotes, e.g. '#01cafe'!
+    color: d73a4a
+    description: Irrelevant files.
